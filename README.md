@@ -11,112 +11,27 @@
 
 ## 👨🏻‍💻 Languages and Tools
 
-#### Back-end Development & Automation
+### Back-end Development & Automation
 
-<div style="display: flex; align-items: center; justify-content: space-around; gap: 16px;">
+| <img src="./assets/dot_net.svg" width="75"> | <img src="./assets/c_sharp.svg" width="75"> | <img src="./assets/python.svg" width="75"> | <img src="./assets/azure.svg" width="75"> |
+|:------------------------------------------:|:-----------------------------------------:|:----------------------------------------:|:---------------------------------------:|
+| **ASP .NET**                               | **C#**                                   | **Python**                              | **Microsoft Azure**                    |
 
-  <div style="text-align: center;">
-    <img src="./assets/dot_net.svg" alt=".NET-Logo" width="36" height="48">
-    <div>ASP .NET</div>
-  </div>
 
-  <div style="text-align: center;">
-    <img src="./assets/c_sharp.svg" alt="C#-Logo" width="36" height="48">
-    <div>C#</div>
-  </div>
+### Front-end Development & Testing
 
-  <div style="text-align: center;">
-    <img src="./assets/python.svg" alt="Python-Logo" width="36" height="48">
-    <div>Python</div>
-  </div>
+| <img src="./assets/react.svg" width="75"> | <img src="./assets/css.svg" width="75"> | <img src="./assets/html.svg" width="75"> | <img src="./assets/boostrap.svg" width="75"> | <img src="./assets/tailwind_css.svg" width="75"> |
+|:-----------------------------------------:|:---------------------------------------:|:----------------------------------------:|:-------------------------------------------:|:----------------------------------------------:|
+| **React**                                 | **CSS**                                 | **HTML**                                 | **Bootstrap**                               | **Tailwind CSS**                              |
 
-  <div style="text-align: center;">
-    <img src="./assets/azure.svg" alt="azure-Logo" width="36" height="48">
-    <div>Microsoft Azure</div>
-  </div>
 
-</div>
+| <img src="./assets/javascript.svg" width="75"> | <img src="./assets/typescript.svg" width="75"> | <img src="./assets/nodejs.svg" width="75"> | <img src="./assets/playwright.svg" width="75"> |
+|:---------------------------------------------:|:--------------------------------------------:|:-----------------------------------------:|:---------------------------------------------:|
+| **Javascript**                               | **Typescript**                              | **Node.js**                               | **Playwright**                               |
 
-#### Front-end Development & Testing
 
-<div style="display: flex; align-items: center; justify-content: space-around; gap: 16px;">
+### Other Areas Of Expertise
 
-  <div style="text-align: center;">
-    <img src="./assets/react.svg" alt="react-Logo" width="36" height="48">
-    <div>React</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="./assets/css.svg" alt="css-Logo" width="36" height="48">
-    <div>CSS</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="./assets/html.svg" alt="html-Logo" width="36" height="48">
-    <div>Html</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="./assets/boostrap.svg" alt="boostrap-Logo" width="36" height="48">
-    <div>Boostrap</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="./assets/tailwind_css.svg" alt="tailwind_css-Logo" width="36" height="48">
-    <div>Tailwind CSS</div>
-  </div>
-
-</div>
-
-<br />
-
-<div style="display: flex; align-items: center; justify-content: space-around; gap: 16px;">
-
-  <div style="text-align: center;">
-    <img src="./assets/javascript.svg" alt="javascript-Logo" width="36" height="48">
-    <div>Javascript</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="./assets/typescript.svg" alt="typescript-Logo" width="36" height="48">
-    <div>Typescript</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="./assets/nodejs.svg" alt="nodejs-Logo" width="36" height="48">
-    <div>Node.js</div>
-  </div>
-  
-  <div style="text-align: center;">
-    <img src="./assets/playwright.svg" alt="playwright-Logo" width="36" height="48">
-    <div>Playwright</div>
-    <div>End to end testing</div>
-  </div>
-
-</div>
-
-#### Other Areas Of Expertise
-
-<div style="display: flex; align-items: center; justify-content: space-around; gap: 16px;">
-
-  <div style="text-align: center;">
-    <img src="./assets/linux.svg" alt="linux-Logo" width="36" height="48">
-    <div>Linux</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="./assets/windows.svg" alt="windows-Logo" width="36" height="48">
-    <div>Windows</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="./assets/sql.svg" alt="sql-Logo" width="36" height="48">
-    <div>SQL</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="./assets/git.svg" alt="git-Logo" width="36" height="48">
-    <div>Git</div>
-  </div>
-
-</div>
+| <img src="./assets/linux.svg" width="75"> | <img src="./assets/windows.svg" width="75"> | <img src="./assets/sql.svg" width="75"> | <img src="./assets/git.svg" width="75"> |
+|:----------------------------------------:|:----------------------------------------:|:-------------------------------------:|:---------------------------------------:|
+| **Linux**                                | **Windows**                              | **SQL**                               | **Git**                                 |
